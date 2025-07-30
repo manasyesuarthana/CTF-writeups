@@ -1,5 +1,5 @@
 # CTF-Write Ups
-A compilation of Write Ups for the CTFs I participated in
+A compilation of Write Ups for the CTFs me and my team participated in
 
 ## CTFs participated so far (with Writeups):
 - Liga Komatik 2025 CTF (1st Place 🥇)
