@@ -1,6 +1,7 @@
 # FIK CUP 2025 CTF
+A CTF nation-wide competition held by Universitas International Batam. 
 
-## Team
+## Team: ASGama
 - I Putu Herjuna Manasye Suarthana
 - Ahmad Zainurafi Alfikri
 
