@@ -7,3 +7,4 @@ A university wide CTF competition to select the 10 top teams from UGM to partici
 - Ahmad Zainurafi Alfikri
 
 ## Achievement: (1st Place 🥇)
+Difficulty: Easy - Hard

@@ -6,3 +6,4 @@ A CTF nation-wide competition held by Universitas International Batam.
 - Ahmad Zainurafi Alfikri
 
 ## Achievement: 3rd Place 🥉
+Difficulty: Easy - Hard
