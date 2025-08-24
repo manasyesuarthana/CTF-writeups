@@ -6,7 +6,8 @@ A compilation of Write Ups for the CTFs me and my team participated in
 - FIK CUP 2025 CTF (3rd Place 🥉)
 - COMPFEST 17 CTF (Top 15% - NT)
 
-## Main team/Authors
+## Authors
 - I Putu Herjuna Manasye Suarthana
 - Ahmad Zainurafi Alfikri
 - Ivan Adito Arba Putra
+- Abdullah Faqih Muzakki
