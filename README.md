@@ -4,7 +4,7 @@ A compilation of Write Ups for the CTFs me and my team participated in
 ## CTFs participated so far (with Writeups):
 - Liga Komatik 2025 CTF (1st Place 🥇)
 - FIK CUP 2025 CTF (3rd Place 🥉)
-- COMPFEST 17 CTF (Top 50 out of 285 teams - NT)
+- COMPFEST 17 CTF (Top 15% - NT)
 
 ## Main team/Authors
 - I Putu Herjuna Manasye Suarthana
