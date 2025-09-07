@@ -18,6 +18,6 @@ wget https://github.com/manasyesuarthana/CTF-WriteUps/blob/main/GEMASTIK%202025/
 - Ahmad Zainurafi Alfikri
 - Ivan Adito Arba Putra
 
-# Achievement: Nothing much -_-
+# Achievement: We tried our best :') 
 Difficulty: Extremely Hard, Speechless.
 
