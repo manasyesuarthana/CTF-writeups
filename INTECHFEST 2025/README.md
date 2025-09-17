@@ -24,6 +24,6 @@ wget https://github.com/manasyesuarthana/CTF-WriteUps/blob/main/INTECHFEST%20202
 - I Putu Herjuna Manasye Suarthana
 - Ivan Adito Arba Putra
 
-## Achievement: (9th Place (Top 10 🏅))
+## Achievement: 9th Place (Top 10 🏅)
 Difficulty: Extremely Hard
 
