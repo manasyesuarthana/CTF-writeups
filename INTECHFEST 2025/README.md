@@ -12,7 +12,7 @@ If the PDF does not render, you can download the file:
 - From the terminal:
 
 ```bash
-wget https://github.com/manasyesuarthana/CTF-WriteUps/blob/main/INTECHFEST/INTECHFEST%202025/
+wget https://github.com/manasyesuarthana/CTF-WriteUps/blob/main/INTECHFEST%202025/INTECHFEST%202025%20CTF%20WU.pdf
 ```
 
 **OR**
