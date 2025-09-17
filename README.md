@@ -18,7 +18,7 @@ Here is a list of the CTFs we have documented. The write-ups are organized by fo
 | **FIK CUP 2025 CTF** | `July 2025`  | `Top 3`   | [View Write-up](./FIK%20CUP%202025/)        |
 | **COMPFEST 17 CTF** | `August 2025`   | `Top 50`   | [View Write-up](./Compfest%2017%202025/)    |
 | **GEMASTIK 2025 CTF** | `August 2025`    | `Top 100`   | [View Write-up](./GEMASTIK%202025/)         |
-| **INTECHFEST 2025 CTF** | `September 2025` | `Top 10` | `Coming Soon` |
+| **INTECHFEST 2025 CTF** | `September 2025` | `Top 10` | [View Write-up](./INTECHFEST%202025/) |
 ---
 
 ## 👥 Our Team
