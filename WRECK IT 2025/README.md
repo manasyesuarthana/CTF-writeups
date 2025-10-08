@@ -11,5 +11,5 @@
 - I Putu Herjuna Manasye Suarthana
 - Ivan Adito Arba Putra
 
-## Achievement: (Still being processed)
+## Achievement: (Top 15 out of 250+ teams! 🏅)
 Difficulty: Medium - Very Hard
