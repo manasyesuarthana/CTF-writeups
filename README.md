@@ -32,7 +32,7 @@ Meet the members who contributed to these solutions.
 | **I Putu Herjuna Manasye Suarthana**| [![manasyesuarthana](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/manasyesuarthana) |
 | **Ahmad Zainurafi Alfikri** | [![Usupek](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Usupek) |
 | **Ivan Adito Arba Putra** | [![ivanadito-ap](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/ivanadito-ap) |
-| **Abdullah Faqih Muzakki** | [![qmuza](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/qmuza) |
+
 
 ## ❓ Frequently Asked Questions (FAQ)
 
